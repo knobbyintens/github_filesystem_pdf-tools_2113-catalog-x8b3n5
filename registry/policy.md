@@ -10,5 +10,5 @@
 4. **Retired identifiers.** Retired artifact identifiers remain in the ledger for historical
    reference but are not eligible for new entries or updates.
 5. **Ledger and announcement.** A cataloged artifact must have its repository recorded in
-   `registry/index.json` and must be announced by an open issue in this repository titled
-   `[catalog] <owner>/<repo>` and labelled `catalog-entry`.
+   `registry/index.json` with its `state` set to `cataloged`, and must be announced by an open
+   issue in this repository titled `[catalog] <owner>/<repo>` and labelled `catalog-entry`.
