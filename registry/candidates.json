@@ -1,0 +1,21 @@
+{
+  "generated_at": "2026-11-06",
+  "note": "Candidate repositories reported by the intake desk. Verify every candidate against the cataloging policy before using it.",
+  "candidates": [
+    {
+      "repository": "knobbyintens/github_filesystem_pdf-tools_2113-selene-core-x8b3n5",
+      "reported_by": "artifact intake",
+      "note": "development repository for the artifact team"
+    },
+    {
+      "repository": "knobbyintens/github_filesystem_pdf-tools_2113-selene-release-x8b3n5",
+      "reported_by": "release desk",
+      "note": "repository maintained by the release desk"
+    },
+    {
+      "repository": "knobbyintens/github_filesystem_pdf-tools_2113-selene-legacy-x8b3n5",
+      "reported_by": "archive desk",
+      "note": "repository maintained by the archive desk"
+    }
+  ]
+}
