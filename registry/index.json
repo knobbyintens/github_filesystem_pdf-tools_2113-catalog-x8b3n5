@@ -1,7 +1,7 @@
 {
   "registry": "Open Artifact Registry",
   "program": "Open Artifact Program",
-  "updated_at": "2026-11-08",
+  "updated_at": "2026-11-01",
   "artifacts": [
     {
       "artifact_id": "ART-2025-0991",
@@ -13,9 +13,9 @@
     {
       "artifact_id": "ART-2026-Q3-0417",
       "title": "Selene: Adaptive Sparse Retrieval for Long-Context Search",
-      "repository": "https://github.com/knobbyintens/github_filesystem_pdf-tools_2113-selene-release-x8b3n5",
-      "state": "cataloged",
-      "updated_at": "2026-11-08"
+      "repository": null,
+      "state": "pending",
+      "updated_at": "2026-11-01"
     }
   ]
 }
